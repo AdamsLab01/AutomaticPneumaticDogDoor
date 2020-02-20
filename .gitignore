@@ -1,0 +1,11 @@
+## generic files to ignore
+Media/**
+ESPCodePrivate/**
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.svg
+*.eps
+Thumbs.db
